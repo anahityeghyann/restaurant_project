@@ -1,0 +1,218 @@
+{
+    "pasta": [
+        {
+            "id": 1,
+            "name": "Gnocchi with almonds",
+            "price": 10,
+            "image": "/menu1.png"
+        },
+        {
+            "id": 2,
+            "name": "Mini spinach  ravioli",
+            "price": 8,
+            "image": "/menu2.png"
+        },
+        {
+            "id": 3,
+            "name": "Lasagna",
+            "price": 15,
+            "image": "/menu3.png"
+        },
+        {
+            "id": 4,
+            "name": "Carbonara spaghetti ",
+            "price": 20,
+            "image": "/menu4.png"
+        }
+    ],
+    "appetizers": [
+        {
+            "id": 1,
+            "name": "bruschetta",
+            "price": 6,
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2025/05/bruschetta.jpg"
+        },
+        {
+            "id": 2,
+            "name": "garlic bread",
+            "price": 5,
+            "image": "https://www.ambitiouskitchen.com/wp-content/uploads/2023/02/Garlic-Bread-4.jpg"
+        },
+        {
+            "id": 3,
+            "name": "mozzarella sticks",
+            "price": 7,
+            "image": "https://sugarspunrun.com/wp-content/uploads/2021/07/Homemade-Mozzarella-Sticks-Recipe-1-of-5.jpg"
+        },
+        {
+            "id": 4,
+            "name": "stuffed mushrooms",
+            "price": 9,
+            "image": "https://blackberrybabe.com/wp-content/uploads/2023/11/Stuffed-Portobello-Mushrooms.jpg"
+        }
+    ],
+    "pizzas": [
+        {
+            "id": 1,
+            "name": "margherita pizza",
+            "price": 12,
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2023/07/margherita-pizza-recipe.jpg"
+        },
+        {
+            "id": 2,
+            "name": "pepperoni pizza",
+            "price": 14,
+            "image": "https://atsloanestable.com/wp-content/uploads/2023/06/new-york-style-pizza2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "vegetarian pizza",
+            "price": 13,
+            "image": "https://www.orchidsandsweettea.com/wp-content/uploads/2019/05/Veggie-Pizza-2-of-5-e1691215701129.jpg"
+        },
+        {
+            "id": 4,
+            "name": "bbq chicken pizza",
+            "price": 16,
+            "image": "https://sallysbakingaddiction.com/wp-content/uploads/2014/03/barbecue-bbq-chicken-pizza.jpg"
+        }
+    ],
+    "salad": [
+        {
+            "id": 1,
+            "name": "caesar salad",
+            "price": 7,
+            "image": "https://www.onceuponachef.com/images/2010/08/Homemade-Caesar-Salad-Dressing.jpg"
+        },
+        {
+            "id": 2,
+            "name": "greek salad",
+            "price": 6,
+            "image": "  https://www.primalkitchen.com/cdn/shop/articles/20240905221054-pk-greek-salad-0214-min.jpg?v=1725643684"
+        },
+        {
+            "id": 3,
+            "name": "caprese salad",
+            "price": 8,
+            "image": "https://www.bowlofdelicious.com/wp-content/uploads/2023/08/Peach-Caprese-Salad-square.jpg"
+        },
+        {
+            "id": 4,
+            "name": "quinoa avocado salad",
+            "price": 9,
+            "image": "https://www.lisashealthykitchen.com/wp-content/uploads/Quinoa-Salad-with-Avocado-and-Mango.jpg  "
+        }
+    ],
+    "soup": [
+        {
+            "id": 1,
+            "name": "tomato basil soup",
+            "price": 6,
+            "image": "https://s.lightorangebean.com/media/20240914150528/tomato-basil-soup_done.png"
+        },
+        {
+            "id": 2,
+            "name": "  chicken noodle soup",
+            "price": 7,
+            "image": "https://assets.tmecosys.com/image/upload/t_web_rdp_recipe_584x480_1_5x/img/recipe/ras/Assets/342DF99A-CD47-46EE-BF1E-3DD6300A094E/Derivates/255F0F3E-F8CB-49C7-9A5F-E6A75E5B1731.jpg"
+        },
+        {
+            "id": 3,
+            "name": "mushroom cream soup",
+            "price": 8,
+            "image": "https://hungryhappens.net/wp-content/uploads/2025/02/IMG_8550-1-scaled.jpg"
+        },
+        {
+            "id": 4,
+            "name": "lentil soup",
+            "price": 6,
+            "image": "https://thegreekfoodie.com/wp-content/uploads/2021/01/Greek_lentil_soup_SQ.jpg"
+        }
+    ],
+    "dessert": [
+        {
+            "id": 1,
+            "name": "tiramisu",
+            "price": 7,
+            "image": "https://www.bunsenburnerbakery.com/wp-content/uploads/2025/03/easy-tiramisu-25.jpg"
+        },
+        {
+            "id": 2,
+            "name": "chocolate lava cake",
+            "price": 8,
+            "image": "https://insanelygoodrecipes.com/wp-content/uploads/2024/12/Lava-Cake-2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "cheesecake",
+            "price": 7,
+            "image": "https://cakesbymk.com/wp-content/uploads/2023/11/Template-Size-for-Blog-Photos-24-802x1024.jpg"
+        },
+        {
+            "id": 4,
+            "name": "ice cream trio",
+            "price": 6,
+            "image": "https://carveyourcraving.com/wp-content/uploads/2021/06/chocolate-icecream-in-an-icecream-maker.jpg"
+        }
+    ],
+    "beer": [
+        {
+            "id": 1,
+            "name": "Stella",
+            "price": 5,
+            "image": "https://alcofan.com/wp-content/uploads/2018/01/butylka-piva-stella-artua.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Heineken",
+            "price": 7,
+            "image": "https://thumbs.dreamstime.com/b/phuket-thailand-october-heineken-beer-bottles-displayed-bar-counter-blurred-background-lively-pub-positioned-443185540.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Tuborg",
+            "price": 5,
+            "image": "https://i.pinimg.com/1200x/6e/79/25/6e792525cec8886e7c66c22e735bf19a.jpg"
+        }
+    ],
+    "wine": [
+        {
+            "id": 1,
+            "name": "Armenia wine",
+            "price": 15,
+            "image": "https://brilliant-confidence-a87da711f2.media.strapiapp.com/da732921_306d_4308_9326_c519663c8913_5b45fa8b3d.jpeg"
+        },
+        {
+            "id": 2,
+            "name": "Nur",
+            "price": 12,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_hoJCa2sfJDy2SB1T4AmfEYhLW4hTsGURxw&s"
+        },
+        {
+            "id": 3,
+            "name": "Generational Wealth wins",
+            "price": 17,
+            "image": "https://i.redd.it/72b7g75mbtce1.jpeg"
+        }
+    ],
+    "coctail": [
+        {
+            "id": 1,
+            "name": "Mojito",
+            "price": 3,
+            "image": "https://recipes.clubandresortchef.com/wp-content/uploads/2022/03/Eco-Mojito-Cocktail_recipe_JW-Marriott-San-Antonio-Hill-Country-Resort-Spa.jpg"
+        },
+        {
+            "id": 2,
+            "name": "martini",
+            "price": 4,
+            "image": "https://mixthatdrink.com/wp-content/uploads/2009/02/martini-cocktail-poolside-750x1125.jpg"
+        },
+        {
+            "id": 3,
+            "name": "margarita",
+            "priec": 6,
+            "image": "https://www.traveldistilled.com/wp-content/uploads/2015/07/margarita-glass-from-Serif-royalty-free-735x1103.jpg"
+        }
+    ]
+}
