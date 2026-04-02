@@ -1,12 +1,12 @@
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 import { useEffect, useState } from "react";
 import axios from "axios";
+import { Link } from "react-router-dom";
 
 const Menu = () => {
   const [pasta, setPasta] = useState([]);
   const [category, setCategory] = useState("dessert");
 
-  // 👇 ДОБАВИЛ
   const categories = [
     "appetizers",
     "pasta",
@@ -27,7 +27,6 @@ const Menu = () => {
       .catch((err) => console.error(err));
   }, [category]);
 
-  // 👇 ДОБАВИЛ (синхронизация)
   useEffect(() => {
     setCategory(categories[index]);
   }, [index]);
@@ -94,15 +93,19 @@ const Menu = () => {
         </button>
 
         {pasta.map((product) => (
-          <div key={product.id} className="flex flex-col items-center">
+          <Link
+            to={`/product/${category}/${product.id}`}
+            key={product.id}
+            className="flex flex-col items-center cursor-pointer hover:scale-105 transition-all"
+          >
             <img
-              className="w-70 h-100 object-cover"
+              className="w-70 h-100 object-cover rounded-lg shadow-md"
               src={product.image?.trim()}
-              alt="Product image"
+              alt={product.name}
             />
-            <p className="mt-3 font-semibold">{product.name}</p>
+            <p className="mt-3 font-semibold capitalize">{product.name}</p>
             <p className="text-gray-600">{product.price}$</p>
-          </div>
+          </Link>
         ))}
 
         <button
