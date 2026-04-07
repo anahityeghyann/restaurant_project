@@ -160,19 +160,19 @@
             "id": 1,
             "name": "Stella",
             "price": 5,
-            "image": "https://alcofan.com/wp-content/uploads/2018/01/butylka-piva-stella-artua.jpg"
+            "image": "https://www.sas.am/upload/iblock/115/001271.png"
         },
         {
             "id": 2,
             "name": "Heineken",
             "price": 7,
-            "image": "https://thumbs.dreamstime.com/b/phuket-thailand-october-heineken-beer-bottles-displayed-bar-counter-blurred-background-lively-pub-positioned-443185540.jpg"
+            "image": "https://static.parma.am/origin/product/1024/03476(1).jpg"
         },
         {
             "id": 3,
             "name": "Tuborg",
             "price": 5,
-            "image": "https://i.pinimg.com/1200x/6e/79/25/6e792525cec8886e7c66c22e735bf19a.jpg"
+            "image": "https://jslight.com.np/wp-content/uploads/2022/06/depositphotos_160902572-stock-ph.jpg"
         }
     ],
     "wine": [
@@ -200,19 +200,19 @@
             "id": 1,
             "name": "Mojito",
             "price": 3,
-            "image": "https://recipes.clubandresortchef.com/wp-content/uploads/2022/03/Eco-Mojito-Cocktail_recipe_JW-Marriott-San-Antonio-Hill-Country-Resort-Spa.jpg"
+            "image": "https://www.saveur.com/uploads/2007/02/SAVEUR_Mojito_1149-Edit-scaled.jpg?auto=webp"
         },
         {
             "id": 2,
             "name": "martini",
             "price": 4,
-            "image": "https://mixthatdrink.com/wp-content/uploads/2009/02/martini-cocktail-poolside-750x1125.jpg"
+            "image": "https://www.artofdrink.com/wp-content/uploads/2010/08/french-martini-cocktail.jpg"
         },
         {
             "id": 3,
             "name": "margarita",
             "priec": 6,
-            "image": "https://www.traveldistilled.com/wp-content/uploads/2015/07/margarita-glass-from-Serif-royalty-free-735x1103.jpg"
+            "image": "https://cookingwithjanica.com/wp-content/uploads/2025/06/midori_margarita.jpg"
         }
     ]
 }
