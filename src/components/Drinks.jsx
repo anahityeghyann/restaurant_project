@@ -85,8 +85,8 @@ const Drinks = () => {
             <h1
               className={`font-bold transition-all duration-300 ${
                 category === "wine"
-                  ? "text-6xl scale-110 text-[#36392D]"
-                  : "text-4xl text-[#9FA68C]"
+                  ? "text-5xl scale-110 text-[#36392D]"
+                  : "text-3xl text-[#9FA68C]"
               }`}
             >
               Wine
@@ -99,8 +99,8 @@ const Drinks = () => {
             <h1
               className={`font-bold transition-all duration-300 ${
                 category === "cocktails"
-                  ? "text-6xl scale-110 text-[#36392D]"
-                  : "text-4xl text-[#9FA68C]"
+                  ? "text-5xl scale-110 text-[#36392D]"
+                  : "text-3xl text-[#9FA68C]"
               }`}
             >
               Cocktails
@@ -113,8 +113,8 @@ const Drinks = () => {
             <h1
               className={`font-bold transition-all duration-300 ${
                 category === "beer"
-                  ? "text-6xl scale-110 text-[#36392D]"
-                  : "text-4xl text-[#9FA68C]"
+                  ? "text-5xl scale-110 text-[#36392D]"
+                  : "text-3xl text-[#9FA68C]"
               }`}
             >
               Beer

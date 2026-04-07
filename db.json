@@ -180,19 +180,19 @@
             "id": 1,
             "name": "Armenia wine",
             "price": 15,
-            "image": "https://brilliant-confidence-a87da711f2.media.strapiapp.com/da732921_306d_4308_9326_c519663c8913_5b45fa8b3d.jpeg"
+            "image": "https://vinocruz.com/wp-content/uploads/2021/11/red-wine-club.jpg"
         },
         {
             "id": 2,
             "name": "Nur",
             "price": 12,
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_hoJCa2sfJDy2SB1T4AmfEYhLW4hTsGURxw&s"
+            "image": "https://static.millesima.com/s3/attachements/editorial/h630px/red-wine-types.jpg"
         },
         {
             "id": 3,
             "name": "Generational Wealth wins",
             "price": 17,
-            "image": "https://i.redd.it/72b7g75mbtce1.jpeg"
+            "image": "https://majestorage.blob.core.windows.net/majestic-live/Content/Images/Uploaded/Blogs/Red%20Wine%20(5).png"
         }
     ],
     "cocktails": [
