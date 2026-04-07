@@ -128,10 +128,5 @@ const Drinks = () => {
   );
 };
 
-export default Drinks;
-      </div>
-    </div>
-  );
-};
 
 export default Drinks;
